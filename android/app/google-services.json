@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "47360168096",
+    "project_id": "evenatus-db1c3",
+    "storage_bucket": "evenatus-db1c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47360168096:android:7d402c7bd145fcf5a7b9c5",
+        "android_client_info": {
+          "package_name": "co.bihelix.project_black_panther"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnBLtzua1KXA6j5fcVth4UD4-XDA7AqyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
